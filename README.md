@@ -68,12 +68,7 @@ Allows leave requests to be recorded and managed through the interface.
 Tracks employee attendance records and provides a basic overview of attendance management.
 
 ## Video Presentation Link
-Paste your video link here.
-
-Example:
 [Watch the project presentation here](https://drive.google.com/file/d/1Gw-EZ8yImyOy8cJOwr__2w8t4R6l35qC/view?usp=sharing)
 
 ## Author
 Yumnaa Isaacs
-
-Developed by Khanyiso Haman for the Life Choices Academy YouthCode Off-Site Course 1 Core Project.
